@@ -1,0 +1,8 @@
+Main Link
+https://arcane-springs-24733.herokuapp.com/
+
+"Cool" Project Link
+https://arcane-springs-24733.herokuapp.com/cool
+
+Get Data from DB Link
+https://arcane-springs-24733.herokuapp.com/getData
