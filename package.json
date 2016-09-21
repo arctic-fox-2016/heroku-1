@@ -1,0 +1,26 @@
+{
+  "name": "heroku-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arctic-fox-2016/heroku-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arctic-fox-2016/heroku-1/issues"
+  },
+
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+
+  "homepage": "https://github.com/arctic-fox-2016/heroku-1#readme"
+}
